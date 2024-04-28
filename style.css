@@ -7,3 +7,12 @@
     padding: auto;
     
 }
+
+body {
+    font-family:'Bukhari Script';
+    text-align: center;
+    background-image: url("./backgroundpepe.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
